@@ -1,5 +1,5 @@
 # studying
-Hello! My name is Marina Eremina. I'm a student of Yandex School of Data Analysis and Lomonosov Moscow State University (LMSU). Here you can see my projects from different courses I've had:
+Hello! My name is Marina Eremina. I'm a student of Yandex School of Data Analysis (YSDA) and Lomonosov Moscow State University (LMSU). Here you can see my projects from different courses I've had (made in 2017, for other projects open access is not permitted by YSDA):
 
 ## Projects
 
